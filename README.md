@@ -12,4 +12,5 @@
 ### Frontend skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue&theme=light)](https://skillicons.dev)
 
-### Find me on
+### Problem solving skill
+![LeetCode Stats](https://leetcard.jacoblin.cool/GayashanGamage?theme=dark&font=Abel&ext=activity)
