@@ -7,14 +7,17 @@
 * Self-study's my go-to, with the job playing second fiddle.
   
 ### Backend skills 
+
+look at my projects
+
 [![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,postgres,mongodb,docker,aws,postman,git&theme=light)](https://skillicons.dev)
 
+### Frontend skills
+
 look at my projects
 
-### Frontend skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue&theme=light)](https://skillicons.dev)
 
-look at my projects
 
 ### Problem solving skill
 ![LeetCode Stats](https://leetcard.jacoblin.cool/GayashanGamage?theme=dark&font=Akshar)
