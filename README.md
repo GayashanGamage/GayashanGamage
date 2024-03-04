@@ -6,8 +6,7 @@
 * If I have to master other Framwork or Language, I'm ready
 * If so, self study is first & job is second
 
-> [!NOTE]
-> I'm looking for internship 
+<!--> [!NOTE] > I'm looking for internship --> 
 ### Backend skills
 [![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,postgres,mongodb,docker,aws,postman,git&theme=light)](https://skillicons.dev)
 
