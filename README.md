@@ -1,6 +1,4 @@
 # Hi... :smiley: call me gayashan
-### Story
-in my young eage I have a dream to 
 
 ### Offer
 * I love working on logical stuff. so I improve my skills on backend technologies and master python
@@ -15,3 +13,5 @@ in my young eage I have a dream to
 
 ### Frontend skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue&theme=light)](https://skillicons.dev)
+
+### Find me on
