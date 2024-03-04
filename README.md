@@ -1,7 +1,15 @@
+# Hi... :smiley: call me gayashan
+### Story
+in my young eage I have a dream to 
+
+### Offer
+* I love working on logical stuff. so I improve my skills on backend technologies and master python
+* Alognside I have fair knowladge about frontend ( it's a girls' job )
+* If I have to master other Framwork or Language, I'm ready
+* If so, self study is first & job is second
+
 > [!NOTE]
 > I'm looking for internship 
-
-# Hi... :smiley: call me gayashan
 ### Backend skills
 [![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,postgres,mongodb,docker,aws,postman,git&theme=light)](https://skillicons.dev)
 
