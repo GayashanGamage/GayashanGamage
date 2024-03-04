@@ -1,2 +1,2 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,py,django,fastapi,postman,git,postgres,mongodb,,html,css,js,vue&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,postman,git,postgres,mongodb,docker,aws,html,css,js,vue&perline=9)](https://skillicons.dev)
